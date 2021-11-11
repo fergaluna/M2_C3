@@ -1,0 +1,35 @@
+
+
+
+.contenedor {
+	background:#1acdd3;
+	width:100%;
+}
+
+
+.contenido {
+	border-top:solid grey 0.1em;
+	float:none;
+	padding: 0.9em;
+	width:100%;
+	margin-left:0;
+}
+
+nav ul {
+	margin:0;
+}
+nav ul li a {
+	padding: 0.5em;
+	display: block;
+	color:grey;
+}
+/*aside {
+	border-top: solid black 0.1em;
+	float:none;
+	padding: 0.8em;
+	width:100%;
+	margin-left:0;
+}*/
+
+
+
